@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "TTF";
+    src: url("../font/TsangerYuYangT_W02_W02.ttf");
+}
+
+h1 {
+    font-family: "TTF";
+}

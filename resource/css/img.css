@@ -1,0 +1,6 @@
+.img_css {
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-image: url("../img/xinchebaojia.png");
+}
